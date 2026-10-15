@@ -1,0 +1,13 @@
+{
+  "name": "notas-para-filmes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "source/notasParaFilmes.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
